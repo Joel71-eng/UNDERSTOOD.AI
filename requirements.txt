@@ -1,0 +1,16 @@
+streamlit>=1.50
+langgraph>=1.0
+langgraph-checkpoint-sqlite
+requests
+pillow
+numpy
+scipy
+rdkit
+reportlab
+pypdf
+pypdfium2
+python-docx
+imageio-ffmpeg
+pyttsx3
+# optional, nicer offline voice: piper-tts  (+ a .onnx voice file in understood_data\voices)
+python-pptx
